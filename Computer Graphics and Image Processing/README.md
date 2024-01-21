@@ -1,24 +1,72 @@
 <div align = "center">
 
-*------ **⭐⭐ Star The Repositry for Daily Updates⭐⭐** ------*
+*------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------*
 
-## 🍂 SWE 4 - 1 Semester Course Resources
+## 🍂 Computer Graphics and Image Processing
 
 
 </div>
 
 <hr>
 
-#### 😀 SWE 423 - 424 : Computer Graphics and Image Processing ( [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Usability%20and%20Matrix) )
+<div align = "center">
 
-#### 😁 SWE 423 - 424 : Computer Graphics and Image Processing ( [👉 Resource](./) )
+### 🍂 Theory Syllabus
 
-<!-- #### 🤧 Technical Writing and Presenation [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+*------ **⭐⭐ Chapter 1 - 5/6 ⭐⭐** ------*
 
-#### 😉 350 Project [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+<hr>
 
-#### 😎 Machine Learning [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Machine%20Learning)
+</div>
 
-#### 🤧 Distributed System [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Distributed%20System)
 
-#### 🍢 Entrepreneurship Development [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Entrepreneurship%20Development) -->
+<div align = "center">
+
+### 🎅 Lab Task
+
+*------ **⭐⭐ Loading ⭐⭐** ------*
+
+<hr>
+
+</div>
+
+
+<div align = "center">
+
+### 😀 Resource
+
+*------ **⭐⭐ Book-Link ( [ 👉 Click Here]() ) ⭐⭐** ------*
+
+<hr>
+
+</div>
+
+
+
+<div align = "center">
+
+##  🔍 Topic Covered in Classes
+
+*------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------*
+
+<hr>
+
+</div>
+
+
+#### 👉 Chapter 1 (Class - 1 : January 2016)
+ - **✍️ What is Computer Graphics ?**
+ - **👉 What is Image ?**
+ - **👉 Why color range is (0-255) ?**
+ - **👉 Why 24bit is better than 8bit Channel ?**
+ - **👉 What is Pixel ?**
+ - **👉 What is Digital Image ?**
+ - **👉 What is Resolution ?**
+ - **👉 What is AR ?**
+ - **👉 What is VR ?**
+ - **👉 Difference Between AR & VR ?**
+ - **👉 PPI vs DPI ?**
+ - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
+ 
+
+
