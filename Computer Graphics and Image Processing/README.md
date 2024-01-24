@@ -35,7 +35,7 @@
 
 ### 😀 Resource
 
-*------ **⭐⭐ Book-Link ( [ 👉 Click Here]() ) ⭐⭐** ------*
+*------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book.pdf) ) ⭐⭐** ------*
 
 *------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------*
 
