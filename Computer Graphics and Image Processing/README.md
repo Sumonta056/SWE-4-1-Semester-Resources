@@ -71,4 +71,22 @@
  - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
  
 
+#### 👉 Chapter 6 (Class - 2 : January 2016) [Digital Image Processing]
+ - **✍️ Color Image Processing ?**
+ - **👉 What is Color ?**
+ - **👉 Electromagnetic Spectrum**
+ - **👉 RGB Color Model**
+ ```
+  - Red = 8 bit , Green = 8 bit , Blue = 8 bit
+  - Total RGB Colors = 2^24 = 16.7 Million
+ ```
+ - **👉 CMY and CMYK Model**
+ - **👉 Direct Coding (⭐⭐⭐)**
+ - **👉 Lookup Table (⭐⭐⭐)**
+ - **👉 Direct Coding vs Lookup Table (⭐⭐⭐)**
+ - **👉 How Lookup Table reduce Image Size? (⭐⭐⭐)**
+
+![Alt text](./Notes/DirectCoding_VS_LookupTable.png)
+
+ 
 
