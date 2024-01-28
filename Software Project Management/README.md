@@ -35,7 +35,7 @@
 
 ### 😀 Resource
 
-*------ **⭐⭐ Book-Link ( [ 👉 Click Here]() ) ⭐⭐** ------*
+*------ **⭐⭐ Book-Link ( [ 👉 Click Here](./book.pdf) ) ⭐⭐** ------*
 
 <hr>
 
