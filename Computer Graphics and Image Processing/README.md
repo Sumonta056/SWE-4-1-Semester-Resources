@@ -99,5 +99,5 @@
   y' = floor (y + 0.5)
  ```
  - **👉 Scan Converting a Line**
-![Alt text](./Notes/ConvertingLine.png)
+![Alt text](image.png)
 
