@@ -9,11 +9,11 @@
 
 <hr>
 
-<!--<div align = "center">
+<div align = "center">
 
 ### 🍂 Theory Syllabus
 
-*------ **⭐⭐ Chapter 1 - 5/6 ⭐⭐** ------*
+*------ **⭐⭐ Chapter 1 - 9 ⭐⭐** ------*
 
 <hr>
 
@@ -28,7 +28,7 @@
 
 <hr>
 
-</div>-->
+</div>
 
 
 <div align = "center">
@@ -38,13 +38,15 @@
 
 *------ **⭐⭐ MRE-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1YdqmQc94PH_jMG3BmNxD786EnA9lyhJa) ) ⭐⭐** ------*
 
+*------ **⭐⭐ HCI Book ( [ 👉 Click Here](./Book/Gerard%20Jounghyun%20Kim%20-%20Human-Computer%20Interaction%20%20Fundamentals%20and%20Practice-Auerbach%20Publications%20(2015).pdf) ) ⭐⭐** ------*
+
 <hr>
 
 </div>
 
 
 
-<!--<div align = "center">
+<div align = "center">
 
 ##  🔍 Topic Covered in Classes
 
@@ -52,22 +54,12 @@
 
 <hr>
 
-</div>-->
+</div>
 
 
-<!--#### 👉 Chapter 1 (Class - 1 : January 2016)
- - **✍️ What is Computer Graphics ?**
- - **👉 What is Image ?**
- - **👉 Why color range is (0-255) ?**
- - **👉 Why 24bit is better than 8bit Channel ?**
- - **👉 What is Pixel ?**
- - **👉 What is Digital Image ?**
- - **👉 What is Resolution ?**
- - **👉 What is AR ?**
- - **👉 What is VR ?**
- - **👉 Difference Between AR & VR ?**
- - **👉 PPI vs DPI ?**
- - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**-->
+#### 👉 Chapter 1 (Class - 1 : January 28)
+ - **✍️ Chapter - 1 : Introduction ( [ 👉 Click Here](./Slides/Chapter%201_%20Introduction.pptx) )**
+
  
  
 

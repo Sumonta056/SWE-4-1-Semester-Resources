@@ -35,7 +35,7 @@
 
 ### 😀 Resource
 
-*------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book.pdf) ) ⭐⭐** ------*
+*------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book/Book.pdf) ) ⭐⭐** ------*
 
 *------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------*
 
@@ -56,7 +56,7 @@
 </div>
 
 
-#### 👉 Chapter 1 (Class - 1 : January 2016)
+#### 👉 Chapter 1 ( [ 👉 Click Here](./Slides/Basics%20of%20Computer.pptx) ) (Class - 1 : January 21)
  - **✍️ What is Computer Graphics ?**
  - **👉 What is Image ?**
  - **👉 Why color range is (0-255) ?**
@@ -71,7 +71,7 @@
  - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
  
 
-#### 👉 Chapter 6 (Class - 2 : January 2016) [Digital Image Processing]
+#### 👉 Chapter 2 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 2 : January 24) [Digital Image Processing]
  - **✍️ Color Image Processing ?**
  - **👉 What is Color ?**
  - **👉 Electromagnetic Spectrum**
@@ -89,4 +89,15 @@
 ![Alt text](./Notes/DirectCoding_VS_LookupTable.png)
 
  
+#### 👉 Chapter 3 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 3 : January 28) [Scan Conversion]
+ - **✍️ What is Scan-Conversion / Rasterization ?**
+ - **👉 What is Graphics Primitive ?**
+ - **👉 Scan Converting a Point**
+ ```
+  👉 Round Pixed Cordinates Value
+  x' = floor (x + 0.5)
+  y' = floor (y + 0.5)
+ ```
+ - **👉 Scan Converting a Line**
+![Alt text](./Notes/ConvertingLine.png)
 
