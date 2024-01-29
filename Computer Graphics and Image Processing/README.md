@@ -24,7 +24,7 @@
 
 ### 🎅 Lab Task
 
-*------ **⭐⭐ Loading ⭐⭐** ------*
+*------ **⭐⭐ Anindo Vai Git ( [ 👉 Click Here](https://github.com/anindosarker/computer-graphics-algorithms-javascript) ) ⭐⭐** ------*
 
 <hr>
 
