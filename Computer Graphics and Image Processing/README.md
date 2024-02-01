@@ -99,5 +99,12 @@
   y' = floor (y + 0.5)
  ```
  - **👉 Scan Converting a Line**
-![Alt text](image.png)
 
+ #### 👉 Direct Line Equations
+![Alt text](./Notes/ConvertingLine.png)
+
+ #### 👉 Digital Differential Analyzer (DDA) Algorithm
+![Alt text](./Notes/DDA_Algo.png)
+
+ #### 👉 DDA vs Direct Line Equation
+![Alt text](./Notes/DDAvsDireceEQ.png)
