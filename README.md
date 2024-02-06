@@ -1,10 +1,8 @@
 <div align = "center">
 
-*------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------*
+_------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 
 ## 🍂 SWE 4 - 1 Semester Course Resources
-
-
 
 <hr>
 
@@ -12,13 +10,14 @@
 
 #### 😁 SWE 425 - 426 : Software Project Management ( [👉 Resource](./Software%20Project%20Management/) )
 
+#### 📚 SWE 429 - 430 : Information and Network Security ( [👉 Resource](./Information%20and%20Network%20Security/) )
+
 #### 💻 SWE 431 - 432 : Human Computer Interaction ( [👉 Resource](./Human%20Computer%20Interaction/) )
 
 <hr>
 
-*------ **⭐⭐ Class Routine ⭐⭐** ------*
+_------ **⭐⭐ Class Routine ⭐⭐** ------_
 
 ![Alt text](Class-Routine.png)
-
 
 </div>

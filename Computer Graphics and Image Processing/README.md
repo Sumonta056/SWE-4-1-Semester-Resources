@@ -108,3 +108,6 @@
 
  #### 👉 DDA vs Direct Line Equation
 ![Alt text](./Notes/DDAvsDireceEQ.png)
+
+ #### 👉 Bresenham's Line Drawing Algorithm
+![alt text](./Notes/Bresenham's%20Line.png)
