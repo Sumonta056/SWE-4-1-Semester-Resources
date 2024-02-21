@@ -48,7 +48,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 
 </div>
 
-#### 👉 Slide - 1 (Class - 1 : February 6)
+#### 👉 Slide - 1 (Class - 1 : February 6) ( [ 👉 Slide Here]() ) 
 
 - **✍️ Common Criteria (7)**
 - **✍️ Diagram of Common Criteria Relationship**
@@ -63,3 +63,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **✍️ Accountibility**
 - **✍️ Anonymity**
 - **✍️ Security Attack**
+
+#### 👉 Slide - 2 (Class - 2 : February 20) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1GUCSil6OUD_CDiHciruTjENl-AOnx_N2/edit#slide=id.p3) ) 
+
+- **✍️ loading**
