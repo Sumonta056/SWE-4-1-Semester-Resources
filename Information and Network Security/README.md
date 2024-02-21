@@ -48,7 +48,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 
 </div>
 
-#### 👉 Slide - 1 (Class - 1 : February 6) ( [ 👉 Slide Here]() ) 
+#### 👉 Slide - 1 (Class - 1 : February 6) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1lxhAwtxZ-wCpVvNRx2Ow_MlDDN_ejxMy/edit#slide=id.p1) )
 
 - **✍️ Common Criteria (7)**
 - **✍️ Diagram of Common Criteria Relationship**
@@ -64,14 +64,14 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **✍️ Anonymity**
 - **✍️ Security Attack**
 
-#### 👉 Slide - 2 (Class - 2 : February 20) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1GUCSil6OUD_CDiHciruTjENl-AOnx_N2/edit#slide=id.p3) ) 
+#### 👉 Slide - 2 (Class - 2 : February 20) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1GUCSil6OUD_CDiHciruTjENl-AOnx_N2/edit#slide=id.p3) )
 
-**Security Principles**
+**✍️ Security Principles**
 
 1. **✍️ Filesafe Defaults**
 2. **✍️ Complete Mediation**
 3. **✍️ Open Design (Publicly available)**
-     - Kreckhoff's Principle
+   - ✍️ Kreckhoff's Principle
 4. **✍️ Separation of Privilege**
 5. **✍️ Least Privilege**
 6. **✍️ Least Common Mechanism**
@@ -79,22 +79,18 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 8. **✍️ Work Factor**
 9. **✍️ Compromise Recording**
 
-**Access Control Mechanisms**
+**✍️ Access Control Mechanisms**
 
 Access control has 4 mechanisms:
 
 1. **✍️ Access Control Matrices**
-   - Rows: Subjects
-   - Columns: Resources
-   - Cons: High Memory Usage
+
+   - ✍️ Rows: Subjects
+   - ✍️ Columns: Resources
+   - ✍️ Cons: High Memory Usage
 
 2. **✍️ Access Control Lists**
 
 3. **✍️ Capabilities**
 
 4. **✍️ Role-Based Access Control (RBAC)**
-
-
-#### 👉 Slide - 3 (Class - 3 : Upcoming) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1GUCSil6OUD_CDiHciruTjENl-AOnx_N2/edit#slide=id.p1) ) 
-
-- **✍️ loading**
