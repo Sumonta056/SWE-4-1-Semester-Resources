@@ -78,3 +78,33 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **✍️ Why-Who-When-How Project Evalution**
 - **✍️ Strategic Assesment**
 - **✍️ Technical Assesment**
+
+#### 👉 Page 24 - 29 upto 8.5 (Class - 4 : February 22)
+
+- **✍️ Economic assessment:**
+    - **3 benefits:**
+   1) Direct Benefits
+   2) Assessable Indirect Benefits
+   3) Intangible Benefits
+
+- **✍️ Expenditure/Income vs Time graph (page - 26)**
+
+- **✍️ Cost Benefit Evaluation Techniques:**
+    - Net profit
+    - Payback period
+    - Return on Investment (ROI) and formula
+
+- **✍️ Net Present Value (NPV):**
+    - Issues in NPV
+    - Formula (page - 27)
+
+- **✍️ Internal Rate of Return (IRR)**
+
+- **✍️ Positive Attitude Toward Estimation:**
+    - Estimation Approaches
+
+- **✍️ Size Estimation:**
+    - Problems: 
+	    - Lack of Homogeneity
+        
+- **✍️ Cost Benefit Analysis**

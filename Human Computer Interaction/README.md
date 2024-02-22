@@ -60,6 +60,36 @@
 #### 👉 Chapter 1 (Class - 1 : January 28)
  - **✍️ Chapter - 1 : Introduction ( [ 👉 Click Here](./Slides/Chapter%201_%20Introduction.pptx) )**
 
+
+#### 👉 Chapter 2 (Class - 2 : January 31)
+ - **✍️ Chapter - 2 ( [ 👉 Click Here](./Slides/Chapter%202.pptx) )**
+ - **✍️ 2 types of guidelines**
+    - Domain specific
+    - general
+    
+- **✍️ Criteria**
+#### 👉 Chapter 3 (Class - 4 : February 22)
+ - **✍️ Chapter - 3 : Human Factors as HCI Theories ( [ 👉 Click Here](./Slides/Chapter%203.pptx) )**
+ - **✍️ GOMS : Goals, Operators, Methods, Selection rules**
+ - **✍️ Sensation and perception of information**
+    1) Visual: 
+	    - pre-attentive features and high level diagrammatic semantics
+	    - diagrams types
+    2) Aural: 
+	    - 3 types
+	    - 3 display parameters
+	    - intensity
+    3) Tectile:
+	    - touch (screen)
+    4) Haptic: 
+	    - pressure (joystick)
+
+ - **✍️ Human Body Ergonomics**
+    - Fitts's Law
+    - formula 
+    - targets should be large
+    - distance should be small
+
  
  
 
