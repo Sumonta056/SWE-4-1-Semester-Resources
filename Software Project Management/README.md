@@ -99,3 +99,14 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **✍️ Size Estimation:**
     - Problems: Lack of Homogeneity
 - **✍️ Cost Benefit Analysis**
+
+#### 👉 Page 29 - 31 upto 10 (Class - 5 : February 25)
+- **✍️ Cost Benefit Analysis**
+    - Different types of cost
+- **✍️ Cash Flow Analysis**
+- **✍️ Cost-Benefit Evaluation Techniques**
+
+#### 👉 SPM Lab (Class - 6 : February 27)
+- **✍️ A individual project managemnt report is needed which is based on your 350 project or any project you want**
+- **✍️ Tool: MS Project**
+- **✍️ 1st Submit Date: 20th March**
