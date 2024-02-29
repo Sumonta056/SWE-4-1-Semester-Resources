@@ -124,6 +124,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 ![alt text](./Notes/MidpointCircle.excalidraw.png)
 
 #### 👉 Region Filling Method
+
 - **Two Types**
   - **Pixel Level Region Filling**
   - **Geometric Region Filling**
