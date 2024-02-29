@@ -85,14 +85,14 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
   - Distance should be small
 
 - **✍️ Chapter - 4 : Fundamentals and Practice ( [ 👉 Click Here](./Slides/Chapter%204.pptx) )**
-- **✍️ Requirement analysis**
-- **✍️ Scenerio and task analysis (with diagram)**
-- **✍️ User analysis**
-- **✍️ Interface selection and consolidation**
-- **✍️ Overall process diagram**
-- **✍️ Interface selection options**
-   - Hardware platforms
-- **✍️ Software interface components**
-- **✍️ No sheets naive design**
-- **✍️ State transition diagram**
-- **✍️ Storyboards task model**
+   - **✍️ Requirement analysis**
+   - **✍️ Scenerio and task analysis (with diagram)**
+   - **✍️ User analysis**
+   - **✍️ Interface selection and consolidation**
+   - **✍️ Overall process diagram**
+   - **✍️ Interface selection options**
+      - Hardware platforms
+   - **✍️ Software interface components**
+   - **✍️ No sheets naive design**
+   - **✍️ State transition diagram**
+   - **✍️ Storyboards task model**
