@@ -62,7 +62,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
   - general
 - **✍️ Criteria**
 
-#### 👉 Chapter 3 (Class - 4 : February 22)
+#### 👉 Chapter 3 (Class - 3 : February 22)
 
 - **✍️ Chapter - 3 : Human Factors as HCI Theories ( [ 👉 Click Here](./Slides/Chapter%203.pptx) )**
 - **✍️ GOMS : Goals, Operators, Methods, Selection rules**
@@ -83,6 +83,8 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
   - Formula
   - Targets should be large
   - Distance should be small
+
+#### 👉 Chapter 4 (Class - 4 : February 29)
 
 - **✍️ Chapter - 4 : Fundamentals and Practice ( [ 👉 Click Here](./Slides/Chapter%204.pptx) )**
    - **✍️ Requirement analysis**

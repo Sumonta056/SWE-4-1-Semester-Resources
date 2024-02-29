@@ -9,10 +9,9 @@ _------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 | HCI   | 6th March, 2024  | Chapter 1, 2, 3           |
 | CGI   | 11th March, 2024 | Chapter 1, 2 (Till Now Class Lecture)  |
 
+<hr>
 
 ## 🍂 SWE 4 - 1 Semester Course Resources
-
-<hr>
 
 #### 😀 SWE 423 - 424 : Computer Graphics and Image Processing ( [👉 Resource](./Computer%20Graphics%20and%20Image%20Processing/) )
 

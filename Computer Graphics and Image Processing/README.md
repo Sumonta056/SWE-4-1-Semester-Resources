@@ -1,9 +1,8 @@
 <div align = "center">
 
-*------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------*
+_------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 
 ## 🍂 Computer Graphics and Image Processing
-
 
 </div>
 
@@ -13,104 +12,121 @@
 
 ### 🍂 Theory Syllabus
 
-*------ **⭐⭐ Chapter 1 - 5/6 ⭐⭐** ------*
+_------ **⭐⭐ Chapter 1 - 5/6 ⭐⭐** ------_
 
 <hr>
 
 </div>
-
 
 <div align = "center">
 
 ### 🎅 Lab Task
 
-*------ **⭐⭐ Anindo Vai Git ( [ 👉 Click Here](https://github.com/anindosarker/computer-graphics-algorithms-javascript) ) ⭐⭐** ------*
+_------ **⭐⭐ Anindo Vai Git ( [ 👉 Click Here](https://github.com/anindosarker/computer-graphics-algorithms-javascript) ) ⭐⭐** ------_
 
 <hr>
 
 </div>
-
 
 <div align = "center">
 
 ### 😀 Resource
 
-*------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book/Book.pdf) ) ⭐⭐** ------*
+_------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book/Book.pdf) ) ⭐⭐** ------_
 
-*------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------*
+_------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------_
 
 <hr>
 
 </div>
-
-
 
 <div align = "center">
 
-##  🔍 Topic Covered in Classes
+## 🔍 Topic Covered in Classes
 
-*------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------*
+_------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 
 <hr>
 
 </div>
 
-
 #### 👉 Chapter 1 ( [ 👉 Click Here](./Slides/Basics%20of%20Computer.pptx) ) (Class - 1 : January 21)
- - **✍️ What is Computer Graphics ?**
- - **👉 What is Image ?**
- - **👉 Why color range is (0-255) ?**
- - **👉 Why 24bit is better than 8bit Channel ?**
- - **👉 What is Pixel ?**
- - **👉 What is Digital Image ?**
- - **👉 What is Resolution ?**
- - **👉 What is AR ?**
- - **👉 What is VR ?**
- - **👉 Difference Between AR & VR ?**
- - **👉 PPI vs DPI ?**
- - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
- 
+
+- **✍️ What is Computer Graphics ?**
+- **👉 What is Image ?**
+- **👉 Why color range is (0-255) ?**
+- **👉 Why 24bit is better than 8bit Channel ?**
+- **👉 What is Pixel ?**
+- **👉 What is Digital Image ?**
+- **👉 What is Resolution ?**
+- **👉 What is AR ?**
+- **👉 What is VR ?**
+- **👉 Difference Between AR & VR ?**
+- **👉 PPI vs DPI ?**
+- **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
 
 #### 👉 Chapter 2 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 2 : January 24) [Digital Image Processing]
- - **✍️ Color Image Processing ?**
- - **👉 What is Color ?**
- - **👉 Electromagnetic Spectrum**
- - **👉 RGB Color Model**
- ```
-  - Red = 8 bit , Green = 8 bit , Blue = 8 bit
-  - Total RGB Colors = 2^24 = 16.7 Million
- ```
- - **👉 CMY and CMYK Model**
- - **👉 Direct Coding (⭐⭐⭐)**
- - **👉 Lookup Table (⭐⭐⭐)**
- - **👉 Direct Coding vs Lookup Table (⭐⭐⭐)**
- - **👉 How Lookup Table reduce Image Size? (⭐⭐⭐)**
+
+- **✍️ Color Image Processing ?**
+- **👉 What is Color ?**
+- **👉 Electromagnetic Spectrum**
+- **👉 RGB Color Model**
+
+```
+ - Red = 8 bit , Green = 8 bit , Blue = 8 bit
+ - Total RGB Colors = 2^24 = 16.7 Million
+```
+
+- **👉 CMY and CMYK Model**
+- **👉 Direct Coding (⭐⭐⭐)**
+- **👉 Lookup Table (⭐⭐⭐)**
+- **👉 Direct Coding vs Lookup Table (⭐⭐⭐)**
+- **👉 How Lookup Table reduce Image Size? (⭐⭐⭐)**
 
 ![Alt text](./Notes/DirectCoding_VS_LookupTable.png)
 
- 
 #### 👉 Chapter 3 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 3 : January 28) [Scan Conversion]
- - **✍️ What is Scan-Conversion / Rasterization ?**
- - **👉 What is Graphics Primitive ?**
- - **👉 Scan Converting a Point**
- ```
-  👉 Round Pixed Cordinates Value
-  x' = floor (x + 0.5)
-  y' = floor (y + 0.5)
- ```
- - **👉 Scan Converting a Line**
 
- #### 👉 Direct Line Equations
+- **✍️ What is Scan-Conversion / Rasterization ?**
+- **👉 What is Graphics Primitive ?**
+- **👉 Scan Converting a Point**
+
+```
+ 👉 Round Pixed Cordinates Value
+ x' = floor (x + 0.5)
+ y' = floor (y + 0.5)
+```
+
+- **👉 Scan Converting a Line**
+
+#### 👉 Direct Line Equations
+
 ![Alt text](./Notes/ConvertingLine.png)
 
- #### 👉 Digital Differential Analyzer (DDA) Algorithm
+#### 👉 Digital Differential Analyzer (DDA) Algorithm
+
 ![Alt text](./Notes/DDA_Algo.png)
 
- #### 👉 DDA vs Direct Line Equation
+#### 👉 DDA vs Direct Line Equation
+
 ![Alt text](./Notes/DDAvsDireceEQ.png)
 
- #### 👉 Bresenham's Line Drawing Algorithm
+#### 👉 Bresenham's Line Drawing Algorithm
+
 ![alt text](./Notes/Bresenham's%20Line.png)
 
- #### 👉 Bresenham's Circle Algorithm (Incremental Circle Algorithm)
+#### 👉 Bresenham's Circle Algorithm (Incremental Circle Algorithm)
+
 ![alt text](./Notes/Circle.excalidraw.png)
+
+#### 👉 Midpoint Circle Drawing Algorithm
+
+![alt text](./Notes/MidpointCircle.excalidraw.png)
+
+#### 👉 Region Filling Method
+- **Two Types**
+  - **Pixel Level Region Filling**
+  - **Geometric Region Filling**
+- **Two Approaches**
+  - **4 Point Approach**
+  - **8 Point Approach**
