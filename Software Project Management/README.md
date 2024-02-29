@@ -22,7 +22,7 @@ _------ **⭐⭐ Chapter 1 - 5 ⭐⭐** ------_
 
 ### 🎅 Lab Task
 
-_------ **⭐⭐ Loading ⭐⭐** ------_
+_------ **⭐⭐ Lab Resources ( [ 👉 Click Here](./Lab%20Resources/) ) ⭐⭐** ------_
 
 <hr>
 
