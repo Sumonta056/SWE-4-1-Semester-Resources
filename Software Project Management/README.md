@@ -116,3 +116,18 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **✍️ A individual project managemnt report is needed which is based on your 350 project or any project you want**
 - **✍️ Tool: MS Project**
 - **✍️ 1st Submit Date: 20th March**
+
+#### 👉 SPM Lab (Class - 7 : March 03)
+
+- **✍️ Net profit**
+- **✍️ Present value = (value in year t)/(1+r)^t**
+- **✍️ Net present value**
+- **✍️ Internal Rate of Return**
+- **✍️ Risk Category**
+- **✍️ Risk strategy - Reactive vs Proactive**
+- **✍️ Risk management steps**
+- **✍️ Risk identification**
+- **✍️ Question on project risk (11.8)**
+- **✍️ Contents of a risk table**
+- **✍️ Payback period : Time taken to break-even**
+- **✍️ ROI**
