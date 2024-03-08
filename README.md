@@ -7,7 +7,8 @@ _------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 |-------|------------------|---------------------------|
 | SPM   | 4th March, 2024  | Chapter 1 : Page Up To 21              |
 | HCI   | 6th March, 2024  | Chapter 1, 2, 3           |
-| CGI   | 11th March, 2024 | Chapter 1, 2 (Till Now Class Lecture)  |
+| CGI   | 11th March, 2024 | Chapter 1, 2, 3  |
+| Security   | 14th March, 2024 | Chapter 2, 3, 4  |
 
 <hr>
 
