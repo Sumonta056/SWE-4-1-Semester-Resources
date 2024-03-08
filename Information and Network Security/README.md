@@ -94,3 +94,32 @@ Access control has 4 mechanisms:
 3. **✍️ Capabilities**
 
 4. **✍️ Role-Based Access Control (RBAC)**
+
+#### 👉 Slide - 3 (Class - 3 : March 05) ( [ 👉 Slide Here](./Slides/Lecture%204.pptx.pdf) )
+
+**✍️ Encyption (E): Plain Text (M) ---> Ciphertext (C)**
+
+1. **✍️ C = E(M)**
+2. **✍️ M = D(C)**
+3. **✍️ D -> Decryption**
+
+**✍️ Cryptosystem: 7 components**
+**✍️ Caesor cipher -> shift**
+**✍️ Symmetric key distribution (share secret key)**
+ - For n parties, n(n-1)/2 keys
+ - both sender / receiver has same key: symmetric
+ - pros and cons
+
+**✍️ Public key cryptography**
+ - every person has private (S<sub>B</sub>) and public(P<sub>B</sub>) key
+ - for n person: 2n keys
+ - pros and cons
+
+**✍️ Combining symmetric and public key system**
+**✍️ Digital signature**
+   - to ensure that the text has come from the sender (Condition: E<sub>PB</sub>(D<sub>SB</sub>(M)) = M)
+**✍️ Simple attacks on crypto system**
+ - man in the middle
+ - brute force
+   - unicity distance
+
