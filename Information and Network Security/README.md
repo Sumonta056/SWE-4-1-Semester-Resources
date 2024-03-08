@@ -104,7 +104,9 @@ Access control has 4 mechanisms:
 3. **✍️ D -> Decryption**
 
 **✍️ Cryptosystem: 7 components**
+
 **✍️ Caesor cipher -> shift**
+
 **✍️ Symmetric key distribution (share secret key)**
  - For n parties, n(n-1)/2 keys
  - both sender / receiver has same key: symmetric
@@ -118,6 +120,7 @@ Access control has 4 mechanisms:
 **✍️ Combining symmetric and public key system**
 **✍️ Digital signature**
    - to ensure that the text has come from the sender (Condition: E<sub>PB</sub>(D<sub>SB</sub>(M)) = M)
+
 **✍️ Simple attacks on crypto system**
  - man in the middle
  - brute force
