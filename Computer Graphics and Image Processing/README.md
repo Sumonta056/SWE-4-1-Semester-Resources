@@ -131,3 +131,34 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **Two Approaches**
   - **4 Point Approach**
   - **8 Point Approach**
+
+<hr>
+
+### 👉 Chapter 4 : (3 March) [2D Transformation]
+
+#### 👉 All Class Lecture of Chapter - 4 : ( [ 👉 Click Here](./Notes/Chapter%204%20Lectures.pdf) )
+
+#### 👉 Outline
+
+- **Why use 3x3 Matrix ?**
+- **Matrix Concatenation Benifits**
+- **Coordinate Transformation Formula (Scaling, Translation, Reflection, Rotation)**
+- **Geometric Transformation Formula (Scaling, Translation, Reflection, Rotation)**
+- **Coordinate Transformation vs Geometric Transformation**
+- **Composite Transformation Matrix**
+
+#### 👉 Translation in 2d and 3d
+
+![alt text](./Notes/translation.excalidraw.png)
+
+#### 👉 Scaling in 2d and 3d
+
+![alt text](./Notes/Scalling.excalidraw.png)
+
+#### 👉 Mirror Reflection in 2d and 3d
+
+![alt text](./Notes/reflection.excalidraw.png)
+
+#### 👉 Rotation in 2d and 3d
+
+![alt text](./Notes/rotation.excalidraw.png)
