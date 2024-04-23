@@ -22,7 +22,7 @@ _------ **⭐⭐ Coming Soon ⭐⭐** ------_
 
 ### 🎅 Lab Task
 
-_------ **⭐⭐ Lab Resources ( [ 👉 Click Here](./Lab%20Resources/Lab%20Manual%20.pdf) ) ⭐⭐** ------_
+_------ **⭐⭐ Lab Resources ( [ 👉 Click Here](./Lab%20Resources/) ) ⭐⭐** ------
 
 <hr>
 
