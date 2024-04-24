@@ -162,3 +162,9 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 #### 👉 Rotation in 2d and 3d
 
 ![alt text](./Notes/rotation.excalidraw.png)
+
+<hr>
+
+### 👉 Chapter 5 : (22 March) - 2D Transformation Viewing & Clipping
+
+- **Lecture Note (Priya): ( [👉 Click Here](./Notes/CGI%20Lecture.pdf) )**
