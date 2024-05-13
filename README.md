@@ -2,14 +2,6 @@
 
 _------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 
-## 🍂 Term Test Updates
-| Topic | Date             | Syllabus                  |
-|-------|------------------|---------------------------|
-| SPM   | 4th March, 2024  | Chapter 1 : Page Up To 21              |
-| HCI   | 6th March, 2024  | Chapter 1, 2, 3           |
-| CGI   | 11th March, 2024 | Chapter 1, 2, 3  |
-| Security   | 14th March, 2024 | Chapter 2, 3, 4  |
-
 <hr>
 
 ## 🍂 SWE 4 - 1 Semester Course Resources
