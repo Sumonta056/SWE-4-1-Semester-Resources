@@ -32,7 +32,7 @@ _------ **⭐⭐ Coming Soon ⭐⭐** ------_
 
 ### 😀 Resource
 
-_------ **⭐⭐ Book-Link ( [ 👉 Click Here]() ) ⭐⭐** ------_
+_------ **⭐⭐ Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/10i4KuKErAm7ou74YLkAGloVv0acTWyjI) ) ⭐⭐** ------_
 
 <hr>
 
