@@ -32,9 +32,16 @@ _------ **⭐⭐ Anindo Vai Git ( [ 👉 Click Here](https://github.com/anindosa
 
 ### 😀 Resource
 
+_------ **⭐⭐ FRR-Classroom-Link ( [ 👉 Click Here](https://classroom.google.com/u/0/c/NjU2Njk5NzQwMjQ5) ) ⭐⭐** ------_
+
 _------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book/Book.pdf) ) ⭐⭐** ------_
 
 _------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------_
+
+_------ **⭐⭐ FRR-Github-Link ( [ 👉 Click Here](https://github.com/Fazle-Rakib/computer-graphics-and-image-processing) ) ⭐⭐** ------_
+
+_------ **⭐⭐ FRR-Notebook-Link ( [ 👉 Click Here](https://colab.research.google.com/drive/1zQbNQ94JKvrr_xY5TBfazAMVv6pmw0HU#scrollTo=gu3HlTFFnUB7) ) ⭐⭐** ------_
+
 
 <hr>
 
