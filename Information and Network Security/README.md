@@ -95,7 +95,7 @@ Access control has 4 mechanisms:
 
 4. **✍️ Role-Based Access Control (RBAC)**
 
-#### 👉 Slide - 3 (Class - 3 : March 05) ( [ 👉 Slide Here](./Slides/Lecture%204.pptx.pdf) )
+#### 👉 Slide - 3 (Class - 3 : March 05) ( [ 👉 Slide Here](https://docs.google.com/presentation/d/1zn9a4Zq40ARlfCCoZJs7eZz3N7NXPtoi/edit#slide=id.p1) )
 
 **✍️ Encyption (E): Plain Text (M) ---> Ciphertext (C)**
 
