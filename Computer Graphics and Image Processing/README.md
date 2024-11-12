@@ -4,53 +4,31 @@ _------ **⭐⭐ Star The Repositry for Daily Updates ⭐⭐** ------_
 
 ## 🍂 Computer Graphics and Image Processing
 
-</div>
+| Section                       | Link                       |
+| ----------------------------- | -------------------------- |
+| 🍂 Theory Syllabus            | Chapter 1 - 5/6              |
+| 🎅 Lab + Assignment Resources | [👉 Click Here](./Lab/)    |
+| 😀 Book Resource              | [👉 Click Here](./Book/)   |
+| 🎥 Class Lecture Slides       | [👉 Click Here](./Slides/) |
+| 🦜 Final & Term Exam Notes    | [👉 Click Here](./Notes/)  |
 
-<hr>
-
-<div align = "center">
-
-### 🍂 Theory Syllabus
-
-_------ **⭐⭐ Chapter 1 - 5/6 ⭐⭐** ------_
-
-<hr>
-
-</div>
-
-<div align = "center">
-
-### 🎅 Lab Task
+## ⛑️ Others Useful Resources
 
 _------ **⭐⭐ Anindo Vai Git ( [ 👉 Click Here](https://github.com/anindosarker/computer-graphics-algorithms-javascript) ) ⭐⭐** ------_
 
-<hr>
-
-</div>
-
-<div align = "center">
-
-### 😀 Resource
-
-_------ **⭐⭐ Book-Link ( [ 👉 Click Here](./Book/Book.pdf) ) ⭐⭐** ------_
+_------ **⭐⭐ FRR-Classroom-Link ( [ 👉 Click Here](https://classroom.google.com/u/0/c/NjU2Njk5NzQwMjQ5) ) ⭐⭐** ------_
 
 _------ **⭐⭐ FRR-Drive-Link ( [ 👉 Click Here](https://drive.google.com/drive/folders/1PKGjHT_DGb4wNs-NTYjurEnndd-_Mrvr) ) ⭐⭐** ------_
 
-<hr>
+_------ **⭐⭐ FRR-Github-Link ( [ 👉 Click Here](https://github.com/Fazle-Rakib/computer-graphics-and-image-processing) ) ⭐⭐** ------_
+
+_------ **⭐⭐ FRR-Notebook-Link ( [ 👉 Click Here](https://colab.research.google.com/drive/1zQbNQ94JKvrr_xY5TBfazAMVv6pmw0HU#scrollTo=gu3HlTFFnUB7) ) ⭐⭐** ------_
 
 </div>
-
-<div align = "center">
 
 ## 🔍 Topic Covered in Classes
 
-_------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
-
-<hr>
-
-</div>
-
-#### 👉 Chapter 1 ( [ 👉 Click Here](./Slides/Basics%20of%20Computer.pptx) ) (Class - 1 : January 21)
+> 👉 Chapter 1 ( [ 👉 Click Here](./Slides/Basics%20of%20Computer.pptx) ) (Class - 1 : January 21)
 
 - **✍️ What is Computer Graphics ?**
 - **👉 What is Image ?**
@@ -65,7 +43,7 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **👉 PPI vs DPI ?**
 - **👉 A 3x2 inch image at resolution of 300 pixels per inch would have a total pixels off ?**
 
-#### 👉 Chapter 2 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 2 : January 24) [Digital Image Processing]
+> 👉 Chapter 2 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 2 : January 24) [Digital Image Processing]
 
 - **✍️ Color Image Processing ?**
 - **👉 What is Color ?**
@@ -83,9 +61,9 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **👉 Direct Coding vs Lookup Table (⭐⭐⭐)**
 - **👉 How Lookup Table reduce Image Size? (⭐⭐⭐)**
 
-![Alt text](./Notes/DirectCoding_VS_LookupTable.png)
+![Alt text](./Lectures/DirectCoding_VS_LookupTable.png)
 
-#### 👉 Chapter 3 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 3 : January 28) [Scan Conversion]
+> 👉 Chapter 3 ( [ 👉 Click Here](./Slides/02-color.pptx) ) (Class - 3 : January 28) [Scan Conversion]
 
 - **✍️ What is Scan-Conversion / Rasterization ?**
 - **👉 What is Graphics Primitive ?**
@@ -99,31 +77,31 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 
 - **👉 Scan Converting a Line**
 
-#### 👉 Direct Line Equations
+> 👉 Direct Line Equations
 
-![Alt text](./Notes/ConvertingLine.png)
+![Alt text](./Lectures/ConvertingLine.png)
 
-#### 👉 Digital Differential Analyzer (DDA) Algorithm
+> 👉 Digital Differential Analyzer (DDA) Algorithm
 
-![Alt text](./Notes/DDA_Algo.png)
+![Alt text](./Lectures/DDA_Algo.png)
 
-#### 👉 DDA vs Direct Line Equation
+> 👉 DDA vs Direct Line Equation
 
-![Alt text](./Notes/DDAvsDireceEQ.png)
+![Alt text](./Lectures/DDAvsDireceEQ.png)
 
-#### 👉 Bresenham's Line Drawing Algorithm
+> 👉 Bresenham's Line Drawing Algorithm
 
-![alt text](./Notes/Bresenham's%20Line.png)
+![alt text](./Lectures/Bresenham's%20Line.png)
 
-#### 👉 Bresenham's Circle Algorithm (Incremental Circle Algorithm)
+> 👉 Bresenham's Circle Algorithm (Incremental Circle Algorithm)
 
-![alt text](./Notes/Circle.excalidraw.png)
+![alt text](./Lectures/Circle.excalidraw.png)
 
-#### 👉 Midpoint Circle Drawing Algorithm
+> 👉 Midpoint Circle Drawing Algorithm
 
-![alt text](./Notes/MidpointCircle.excalidraw.png)
+![alt text](./Lectures/MidpointCircle.excalidraw.png)
 
-#### 👉 Region Filling Method
+> 👉 Region Filling Method
 
 - **Two Types**
   - **Pixel Level Region Filling**
@@ -136,9 +114,9 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 
 ### 👉 Chapter 4 : (3 March) [2D Transformation]
 
-#### 👉 All Class Lecture of Chapter - 4 : ( [ 👉 Click Here](./Notes/Chapter%204%20Lectures.pdf) )
+> 👉 All Class Lecture of Chapter - 4 : ( [ 👉 Click Here](./Lectures/Chapter%204%20Lectures.pdf) )
 
-#### 👉 Outline
+> 👉 Outline
 
 - **Why use 3x3 Matrix ?**
 - **Matrix Concatenation Benifits**
@@ -147,24 +125,24 @@ _------ **⭐⭐ Daily Class Resources and Topics ⭐⭐** ------_
 - **Coordinate Transformation vs Geometric Transformation**
 - **Composite Transformation Matrix**
 
-#### 👉 Translation in 2d and 3d
+> 👉 Translation in 2d and 3d
 
-![alt text](./Notes/translation.excalidraw.png)
+![alt text](./Lectures/translation.excalidraw.png)
 
-#### 👉 Scaling in 2d and 3d
+> 👉 Scaling in 2d and 3d
 
-![alt text](./Notes/Scalling.excalidraw.png)
+![alt text](./Lectures/Scalling.excalidraw.png)
 
-#### 👉 Mirror Reflection in 2d and 3d
+> 👉 Mirror Reflection in 2d and 3d
 
-![alt text](./Notes/reflection.excalidraw.png)
+![alt text](./Lectures/reflection.excalidraw.png)
 
-#### 👉 Rotation in 2d and 3d
+> 👉 Rotation in 2d and 3d
 
-![alt text](./Notes/rotation.excalidraw.png)
+![alt text](./Lectures/rotation.excalidraw.png)
 
 <hr>
 
 ### 👉 Chapter 5 : (22 March) - 2D Transformation Viewing & Clipping
 
-- **Lecture Note (Priya): ( [👉 Click Here](./Notes/CGI%20Lecture.pdf) )**
+- **Lecture Note (Priya): ( [👉 Click Here](./Lectures/CGI%20Lecture.pdf) )**

@@ -1,0 +1,7 @@
+Follow the manuals.
+If a command giving error just add the root path or back one level and run the command with 
+appropriate file path again.
+
+In Step 1: Generate public/private key pair.
+Use 2048 key size.
+$ openssl genrsa -des3 -out server.key 2048

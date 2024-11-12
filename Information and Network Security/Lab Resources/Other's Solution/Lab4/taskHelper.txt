@@ -1,0 +1,59 @@
+- Helping commands. 
+List of the cipher types.
+$ openssl enc -list
+All the options.
+$ openssl enc -help
+
+
+
+--- For Task 1 ----
+Type ECB .
+Encrypt:
+$ openssl enc -aes-128-ecb -e -in plain.txt -out cipher1.bin -K 00112233445566778889aabbccddeeff
+Decrypt:
+$ openssl enc -aes-128-ecb -d -in cipher1.bin -out decipher1.txt -K 00112233445566778889aabbccddeeff
+
+
+
+Type CBC .
+Encrypt:
+$ openssl enc -aes-128-cbc -e -in plain.txt -out cipher2.bin -K 00112233445566778889aabbccddeeff -iv 01020304050607080550101410114501
+Decrypt:
+$ openssl enc -aes-128-cbc -d -in cipher2.bin -out decipher2.txt -K 00112233445566778889aabbccddeeff -iv 01020304050607080550101410114501
+
+
+Type CFB.
+Encrypt:
+$ openssl enc -aes-128-cfb -e -in plain.txt -out cipher3.bin -K 00112233445566778889aabbccddeeff -iv 01020304050607080550101410114501
+Decrypt:
+$ openssl enc -aes-128-cfb -d -in cipher3.bin -out decipher3.txt -K 00112233445566778889aabbccddeeff -iv 01020304050607080550101410114501
+
+--- Task 2 --
+Simply encrypt the image with ecb and cbc. 
+Reconstruct the header file of the 2 encrypt with ghex from the original file.
+See and explain the difference. 
+ECB encryption will expose patterns in the encrypted image of the original image.
+CBC will not.
+
+-- Task 3 & 4--
+Task description is enough for this.
+
+-- Task 5 --
+
+- Helping commands. 
+List of the digest types.
+$ openssl dgst -list
+All the options.
+$ openssl dgst -help
+
+make a file test.txt
+run this commands 
+
+$ openssl dgst -sha256 test.txt 
+$ openssl dgst -md5 test.txt 
+$ openssl dgst -sha1 test.txt
+
+-- Task 6 & 7 --
+
+Manual is self explanatory.
+

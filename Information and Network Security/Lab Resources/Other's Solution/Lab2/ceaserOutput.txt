@@ -1,0 +1,27 @@
+Key = 1 Decoded Text - ncqnandvrbcqnknbcbvjaclxwcajlcyujcoxavxdccqnan
+Key = 2 Decoded Text - mbpmzmcuqabpmjmabauizbkwvbzikbxtibnwzuwcbbpmzm
+Key = 3 Decoded Text - laolylbtpzaolilzazthyajvuayhjawshamvytvbaaolyl
+Key = 4 Decoded Text - kznkxkasoyznkhkyzysgxziutzxgizvrgzluxsuazznkxk
+Key = 5 Decoded Text - jymjwjzrnxymjgjxyxrfwyhtsywfhyuqfyktwrtzyymjwj
+Key = 6 Decoded Text - ixliviyqmwxlifiwxwqevxgsrxvegxtpexjsvqsyxxlivi
+Key = 7 Decoded Text - hwkhuhxplvwkhehvwvpduwfrqwudfwsodwiruprxwwkhuh
+Key = 8 Decoded Text - gvjgtgwokuvjgdguvuoctveqpvtcevrncvhqtoqwvvjgtg
+Key = 9 Decoded Text - fuifsfvnjtuifcftutnbsudpousbduqmbugpsnpvuuifsf
+Key = 10 Decoded Text - ethereumisthebestsmartcontractplatformoutthere
+Key = 11 Decoded Text - dsgdqdtlhrsgdadrsrlzqsbnmsqzbsokzsenqlntssgdqd
+Key = 12 Decoded Text - crfcpcskgqrfczcqrqkypramlrpyarnjyrdmpkmsrrfcpc
+Key = 13 Decoded Text - bqebobrjfpqebybpqpjxoqzlkqoxzqmixqclojlrqqebob
+Key = 14 Decoded Text - apdanaqieopdaxaopoiwnpykjpnwyplhwpbknikqppdana
+Key = 15 Decoded Text - zoczmzphdnoczwznonhvmoxjiomvxokgvoajmhjpooczmz
+Key = 16 Decoded Text - ynbylyogcmnbyvymnmgulnwihnluwnjfunzilgionnbyly
+Key = 17 Decoded Text - xmaxkxnfblmaxuxlmlftkmvhgmktvmietmyhkfhnmmaxkx
+Key = 18 Decoded Text - wlzwjwmeaklzwtwklkesjlugfljsulhdslxgjegmllzwjw
+Key = 19 Decoded Text - vkyvivldzjkyvsvjkjdriktfekirtkgcrkwfidflkkyviv
+Key = 20 Decoded Text - ujxuhukcyijxuruijicqhjsedjhqsjfbqjvehcekjjxuhu
+Key = 21 Decoded Text - tiwtgtjbxhiwtqthihbpgirdcigprieapiudgbdjiiwtgt
+Key = 22 Decoded Text - shvsfsiawghvspsghgaofhqcbhfoqhdzohtcfacihhvsfs
+Key = 23 Decoded Text - rgurerhzvfgurorfgfznegpbagenpgcyngsbezbhggurer
+Key = 24 Decoded Text - qftqdqgyueftqnqefeymdfoazfdmofbxmfradyagfftqdq
+Key = 25 Decoded Text - pespcpfxtdespmpdedxlcenzyeclneawleqzcxzfeespcp
+Decoded Text - ethereumisthebestsmartcontractplatformoutthere
+Encoded Text - odroboewscdrolocdcwkbdmyxdbkmdzvkdpybwyeddrobo
